@@ -1,0 +1,1 @@
+this repo is for a session on git github organized my resourcio community
